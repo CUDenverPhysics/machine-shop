@@ -8,6 +8,9 @@
   to solve a helical arc error. See link below for discussion.
   https://forums.autodesk.com/t5/hsm-post-processor-forum/prototrak-smx-error/td-p/6614578
   
+  How to install a cloud post processor in Fusion 360: 
+  https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-install-a-cloud-post-in-Fusion-360.html
+  
   $Revision: 41809 141e7f5aa0a06559dd7b09dc0b0a242b6baabe34 $
   $Date: 2018-01-31 10:56:44 $
   
